@@ -61,7 +61,7 @@ nav:
       - AWS Amplify Frontend: topics/aws-amplify-deploy.md
       - Heroku PointDNS: topics/heroku-point-dns.md
       - Setup HTTPS/SSL: topics/https-ssl-support.md
+      - Review Apps: topics/review-apps-heroku.md
   - ESLint and Prettier: topics/eslint-prettier-setup.md
-  - Writing Standards: topics/writing-standards.md
-  - Review Apps: topics/review-apps-heroku.md
   - Trello Integration: topics/github-trello-integration.md
+  - Writing Standards: topics/writing-standards.md
